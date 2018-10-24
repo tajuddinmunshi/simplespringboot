@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>savage</groupId>
+	<groupId>savage1</groupId>
 	<artifactId>Springboothello</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
@@ -30,7 +30,7 @@
     <configuration>
         <url>http://192.168.218.144:8082/manager/text</url>
         <server>localtomcat</server>
-        <path>/savage</path>
+        <path>/savage1</path>
     </configuration>
 </plugin>
 		</plugins>
