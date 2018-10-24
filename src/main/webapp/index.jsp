@@ -5,9 +5,9 @@
 <body>
 	<h1>Hello World!</h1>
 	<p>
-		It is now
+		The time now is
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		You are coming from the below IP 
 		<%= request.getRemoteAddr()  %></p>
 </body>
